@@ -1,15 +1,15 @@
-#green{
-    background-color: green;
+#green {
+  background-color: green;
 }
-#red{
-    background-color: red;
+#red {
+  background-color: red;
 }
-#blue{
-    background-color: blue;
+#blue {
+  background-color: blue;
 }
-button{
-    border-radius: 5px;
-    width: 100px;
-    height: 40px;
-    margin: 5px;
+button {
+  border-radius: 5px;
+  width: 100px;
+  height: 40px;
+  margin: 5px;
 }
